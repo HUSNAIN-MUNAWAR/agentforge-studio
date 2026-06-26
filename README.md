@@ -5,9 +5,13 @@ Self-hosted AgentOps studio for building, running, tracing, approving, evaluatin
 AgentForge Studio is a full-stack portfolio project, not a mock landing page. It includes a Next.js dashboard, FastAPI backend, SQLAlchemy persistence, queue-aware execution path, reusable Agent Pack YAML format, tool runtime, policy guardrails, human approval queue, trace timeline, memory indexing, and rule-based evaluation lab.
 
 <p>
-  <a href="#quick-start"><img alt="Run AgentForge Studio" src="https://img.shields.io/badge/Run%20AgentForge%20Studio-0969DA?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="#screenshots"><img alt="View Screenshots" src="https://img.shields.io/badge/View%20Screenshots-0969DA?style=for-the-badge&logo=readme&logoColor=white"></a>
-  <a href="#system-architecture"><img alt="View Architecture" src="https://img.shields.io/badge/System%20Architecture-0969DA?style=for-the-badge&logo=diagramdotnet&logoColor=white"></a>
+  <img alt="Python 3.12" src="https://img.shields.io/badge/Python-3.12-3776AB?style=flat&labelColor=555555">
+  <img alt="FastAPI Backend" src="https://img.shields.io/badge/FastAPI-Backend-179C55?style=flat&labelColor=555555">
+  <img alt="Next.js Frontend" src="https://img.shields.io/badge/Next.js-Frontend-000000?style=flat&labelColor=555555">
+  <img alt="Advanced" src="https://img.shields.io/badge/-Advanced-4B5563?style=flat">
+  <img alt="RAG" src="https://img.shields.io/badge/-RAG-6D28D9?style=flat">
+  <img alt="AgentOps" src="https://img.shields.io/badge/-AgentOps-1F2937?style=flat">
+  <img alt="Safety" src="https://img.shields.io/badge/-Safety-B91C1C?style=flat">
 </p>
 
 ![AgentForge Studio system workflow](docs/system-workflow.svg)
